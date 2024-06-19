@@ -1,0 +1,20 @@
+h1,h2{
+    padding: 10px;
+}
+.button {
+    padding: 25px;;
+    
+    
+}
+#blue {
+    background-color: blue;
+}
+#grey {
+    background-color: grey;
+}
+#whitee {
+    background-color: white;
+}
+#yellow {
+    background-color: yellow;
+}
